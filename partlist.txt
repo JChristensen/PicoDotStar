@@ -1,0 +1,25 @@
+Partlist
+
+Exported from picoDotstar.sch at 4/1/25 1:50 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device     Package     Library  Sheet
+
+A1       RPI PICO       PICOPICO   PICO        _jc      1
+A2       RTC            RTC79412   RTC79412    _jc      1
+C1       100nF          C-USM0805  M0805       _jc      1
+C2       10uF           C-USM0805  M0805       _jc      1
+D7       LED            LEDD0805   D0805       _jc      1
+D8       LED            LEDD0805   D0805       _jc      1
+D9       LED            LEDD0805   D0805       _jc      1
+JP1      DOTSTAR        M04LOCK    1X04_LOCK   SparkFun 1
+JP2      SERIAL         M06LOCK    1X06_LOCK   SparkFun 1
+JP3      MISC           M06LOCK    1X06_LOCK   SparkFun 1
+R7       1K             R-US_M0805 M0805       _jc      1
+R8       1K             R-US_M0805 M0805       _jc      1
+R9       1K             R-US_M0805 M0805       _jc      1
+S1       RESET          10-XXOCT   B3F-10XXOCT _jc      1
+S2       SW1            10-XXOCT   B3F-10XXOCT _jc      1
