@@ -1,6 +1,6 @@
 Partlist
 
-Exported from picoDotstar.sch at 4/1/25 1:50 PM
+Exported from picoDotstar.sch at 4/29/25 2:34 PM
 
 EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
 
